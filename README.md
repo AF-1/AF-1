@@ -82,7 +82,7 @@ A LMS plugin with a collection of small features (e.g. set time for auto power-o
 
 
 
-## Wikis, instructions...
+## Wiki pages
 <br>
 
 ### Display track ratings on *Now Playing* screen (piCorePlayer, Touch, Radio, SqueezePlay)
