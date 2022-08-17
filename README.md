@@ -6,49 +6,49 @@ All plugins and wikis for Logitech Media Server
 <br>
 
 ### 🔵 Ratings Light
-An LMS plugin that takes care of rating tracks in your LMS library.<br><br>
+A plugin that takes care of rating tracks in your LMS library.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-ratingslight)
 <br><br><br>
 
 
 ### 🔵 Visual Statistics
-An LMS plugin that lets you take a look at your library statistics with charts.<br><br>
+A plugin that lets you take a look at your library statistics with charts.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics)
 <br><br><br>
 
 
 ### 🔵 Dynamic Playlists
-An LMS plugin that lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists.<br><br>
+A plugin that lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylists)
 <br><br><br>
 
 
 ### 🔵 Alternative Play Count
-An LMS plugin that provides alternative play counts and skip counts to reflect your true listening history.<br><br>
+A plugin that provides alternative play counts and skip counts to reflect your true listening history.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-alternativeplaycount)
 <br><br><br>
 
 
 ### 🔵 Custom Start Stop Times
-An LMS plugin that allows you to start and stop tracks at a specified playback/song time..<br><br>
+A plugin that allows you to start and stop tracks at a specified playback/song time.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes)
 <br><br><br>
 
 
 ### 🔵 SQLite Virtual Libraries
-An LMS plugin that allows you to use custom SQLite definitions to create virtual libraries with optional browse menus.<br><br>
+A plugin that allows you to use custom SQLite definitions to create virtual libraries with optional browse menus.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-sqlitevirtuallibraries)
 <br><br><br>
 
 
 ### 🔵 Custom Skip
-An LMS plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
+A plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customskip)
 <br><br><br>
 
 
 ### 🚫 Use Comments Tag Info
-An LMS plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br>
+A plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br>
 UCTI is **deprecated**. You will find most of its features in the [**SQLite Virtual Libraries**](https://github.com/AF-1/lms-sqlitevirtuallibraries) and [**Use Comments Tag Info *Light***](https://github.com/AF-1/lms-usecommentstaginfolight) plugins.
 <br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-usecommenttaginfo)
@@ -65,14 +65,14 @@ UCTI is **deprecated**. You will find most of its features in the [**SQLite Virt
 
 ### 🔵 Use Comments Tag Info Light
 
-An LMS plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
+A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-usecommentstaginfolight)
 <br><br><br>
 
 
 ### 🔵 PotPourri
 
-An LMS plugin with a collection of small features (e.g. set time for auto power-off of all players, invert/randomize track order of *static* playlists, set power-on start volume for players).<br><br>
+A plugin with a collection of small features (e.g. set time for auto power-off of all players, invert/randomize track order of *static* playlists, set power-on start volume for players).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri)
 <br><br><br>
 
