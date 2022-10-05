@@ -55,14 +55,6 @@ UCTI is **deprecated**. You will find most of its features in the [**SQLite Virt
 <br><br><br>
 
 
-<br><hr><br>
-
-
-
-
-## LMS Plugins (GitHub only)
-<br>
-
 ### 🔵 Use Comments Tag Info Light
 
 A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
