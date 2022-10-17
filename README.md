@@ -70,9 +70,17 @@ A plugin with a collection of small features (e.g. set time for auto power-off o
 
 
 <br><hr><br>
+## LMS Plugins - BETA
+<br>
+
+### ⚠️ Dynamic Playlist Creator - BETA
+
+A companion plugin for the *Dynamic Playlists 3* plugin. It helps you create dynamic playlists using templates.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator---beta)
+<br><br><br>
 
 
-
+<br><hr><br>
 
 ## Wiki pages
 <br>
@@ -84,9 +92,9 @@ A mod of the **Now Playing** screen that enables the display of track ratings on
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-nowplaying_screen_with_ratings#display-ratings-on-now-playing-screen-touch-picoreplayer-radio)
 <br><br><br>
 
-### Change default font - use title formats with rating star ★ (piCorePlayer, Touch, Radio, SqueezePlay)
+### Use title formats with the rating star ★ on piCorePlayer, Touch, Radio or SqueezePlay
 
-If you want to use the black star character ★ to display track ratings (LMS title formats) you have to **replace the default font** on piCorePlayer, SB Touch, SB Radio or other devices running *jivelite* with a font that includes the black star character.<br>
+If you want to use the black star character ★ to display track ratings (LMS title formats) on players with a *jivelite* UI (piCorePlayer, Touch, Radio or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character.<br>
 Here's how to do it.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font#change-font-on-picoreplayer-touch-radio-jivelite)
