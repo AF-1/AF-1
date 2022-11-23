@@ -19,7 +19,14 @@ A plugin that lets you take a look at your library statistics with charts.<br><b
 
 ### 🔵 Dynamic Playlists
 A plugin that lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists-3)
+➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
+<br><br><br>
+
+
+### 🟡 Dynamic Playlist Creator (beta)
+
+A companion plugin for the *Dynamic Playlists 3* plugin. It helps you create dynamic playlists using templates.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator---beta)
 <br><br><br>
 
 
@@ -43,15 +50,7 @@ A plugin that allows you to use custom SQLite definitions to create virtual libr
 
 ### 🔵 Custom Skip
 A plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-customskip#custom-skip-3)
-<br><br><br>
-
-
-### 🚫 Use Comments Tag Info
-A plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br>
-UCTI is **deprecated**. You will find most of its features in the [**SQLite Virtual Libraries**](https://github.com/AF-1/lms-sqlitevirtuallibraries) and [**Use Comments Tag Info *Light***](https://github.com/AF-1/lms-usecommentstaginfolight) plugins.
-<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-usecommenttaginfo#use-comment-tag-info)
+➔ [**More information**](https://github.com/AF-1/lms-customskip#custom-skip)
 <br><br><br>
 
 
@@ -69,14 +68,11 @@ A plugin with a collection of small features (e.g. set time for auto power-off o
 <br><br><br>
 
 
-<br><hr><br>
-## LMS Plugins - BETA
-<br>
-
-### ⚠️ Dynamic Playlist Creator - BETA
-
-A companion plugin for the *Dynamic Playlists 3* plugin. It helps you create dynamic playlists using templates.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator---beta)
+### 🚫 Use Comments Tag Info
+A plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br>
+UCTI is **deprecated**. You will find most of its features in the [**SQLite Virtual Libraries**](https://github.com/AF-1/lms-sqlitevirtuallibraries) and [**Use Comments Tag Info *Light***](https://github.com/AF-1/lms-usecommentstaginfolight) plugins.
+<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-usecommenttaginfo#use-comment-tag-info)
 <br><br><br>
 
 
