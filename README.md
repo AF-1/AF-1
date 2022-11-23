@@ -25,8 +25,8 @@ A plugin that lets you play continuous music mixes based on selection criteria d
 
 ### 🟡 Dynamic Playlist Creator (beta)
 
-A companion plugin for the *Dynamic Playlists 3* plugin. It helps you create dynamic playlists using templates.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator---beta)
+A companion plugin for the *Dynamic Playlists* plugin. It helps you create dynamic playlists using templates.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 <br><br><br>
 
 
