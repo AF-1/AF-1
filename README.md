@@ -68,14 +68,6 @@ A plugin with a collection of small features (e.g. set time for auto power-off o
 <br><br><br>
 
 
-### 🚫 Use Comments Tag Info
-A plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br>
-UCTI is **deprecated**. You will find most of its features in the [**SQLite Virtual Libraries**](https://github.com/AF-1/lms-sqlitevirtuallibraries) and [**Use Comments Tag Info *Light***](https://github.com/AF-1/lms-usecommentstaginfolight) plugins.
-<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-usecommenttaginfo#use-comment-tag-info)
-<br><br><br>
-
-
 <br><hr><br>
 
 ## Wiki pages
