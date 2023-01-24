@@ -63,7 +63,7 @@ A plugin that uses (key)words in your music files' comments tags to add extra in
 
 ### 🔵 PotPourri
 
-A plugin with a collection of small features (e.g. set time for auto power-off of all players, invert/randomize track order of *static* playlists, set power-on start volume for players).<br><br>
+A plugin with a collection of small features (e.g. change the track order of *static* playlists, set time for auto power-off of all players, set power-on start volume for players).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
