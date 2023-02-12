@@ -54,6 +54,12 @@ A plugin that lets you define client-specific filter sets with rules for when tr
 <br><br><br>
 
 
+### 🔵 Dark Default Skin
+Just like Logitech Media Server's Default **web skin**, but some UI elements (esp. backgrounds) have a different (darker) color.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
+<br><br><br>
+
+
 ### 🔵 Use Comments Tag Info Light
 
 A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
