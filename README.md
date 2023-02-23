@@ -1,4 +1,4 @@
-All plugins and wikis for Logitech Media Server
+Plugins and Wikis for Logitech Media Server
 ====
 <br>
 
