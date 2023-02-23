@@ -48,15 +48,15 @@ A plugin that allows you to use custom SQLite definitions to create virtual libr
 <br><br><br>
 
 
-### 🔵 Custom Skip
-A plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-customskip#custom-skip)
+### 🔵 Dark Default Skin
+A dark-themed version of the *LMS Default skin*.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
 <br><br><br>
 
 
-### 🔵 Dark Default Skin
-Just like Logitech Media Server's Default **web skin**, but some UI elements (esp. backgrounds) have a different (darker) color.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
+### 🔵 Custom Skip
+A plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-customskip#custom-skip)
 <br><br><br>
 
 
@@ -69,7 +69,7 @@ A plugin that uses (key)words in your music files' comments tags to add extra in
 
 ### 🔵 PotPourri
 
-A plugin with a collection of small features (e.g. change the track order of *static* playlists, set time for auto power-off of all players, set power-on start volume for players).<br><br>
+A plugin with a collection of small features (e.g. change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
