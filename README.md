@@ -74,6 +74,13 @@ A plugin with a collection of small features (e.g. change the track order of *st
 <br><br><br>
 
 
+### ⚪️ Custom Tag Importer
+
+A plugin that allows you to scan track information from custom tags in your music files. That includes rating tags because a rating tag is basically just a custom tag for ratings.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
+<br><br><br>
+
+
 <br><hr><br>
 
 ## Wiki pages
