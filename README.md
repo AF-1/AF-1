@@ -60,10 +60,10 @@ A plugin that lets you define client-specific filter sets with rules for when tr
 <br><br><br>
 
 
-### 🔵 Use Comments Tag Info Light
+### 🔵 Custom Tag Importer
 
-A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
+A plugin that allows you to scan track information from custom tags in your music files. That includes rating tags because a rating tag is basically just a custom tag for ratings.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 <br><br><br>
 
 
@@ -74,10 +74,10 @@ A plugin with a collection of small features (e.g. change the track order of *st
 <br><br><br>
 
 
-### ⚪️ Custom Tag Importer
+### 🔵 Use Comments Tag Info Light
 
-A plugin that allows you to scan track information from custom tags in your music files. That includes rating tags because a rating tag is basically just a custom tag for ratings.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
+A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
 <br><br><br>
 
 
