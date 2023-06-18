@@ -5,76 +5,76 @@ Plugins and Wikis for Logitech Media Server
 ## LMS Plugins
 <br>
 
-### 🔵 Ratings Light
+### 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
 A plugin that takes care of rating tracks in your LMS library.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-ratingslight#ratings-light)
 <br><br><br>
 
 
-### 🔵 Visual Statistics
+### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 A plugin that lets you take a look at your library statistics with charts.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
 
 
-### 🔵 Dynamic Playlists
+### 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 A plugin that lets you play continuous music mixes based on selection criteria defined in so-called dynamic playlists.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 <br><br><br>
 
 
-### 🔵 Dynamic Playlist Creator
+### 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 
 A plugin that allows you to create *custom* dynamic playlists for the *Dynamic Playlists* plugin using templates.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 <br><br><br>
 
 
-### 🔵 Alternative Play Count
+### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 A plugin that provides alternative play counts and skip counts to reflect your true listening history.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
 
-### 🔵 Custom Start Stop Times
+### 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
 A plugin that allows you to start and stop tracks at a specified playback/song time.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
 <br><br><br>
 
 
-### 🔵 SQLite Virtual Libraries
-A plugin that allows you to use custom SQLite definitions to create virtual libraries with optional browse menus.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-sqlitevirtuallibraries#sqlite-virtual-libraries)
+### 🔵 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
+A plugin that allows you to create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
 <br><br><br>
 
 
-### 🔵 Dark Default Skin
+### 🔵 [Dark Default Skin](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
 A dark-themed version of the *LMS Default skin*.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
 <br><br><br>
 
 
-### 🔵 Custom Skip
+### 🔵 [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)
 A plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customskip#custom-skip)
 <br><br><br>
 
 
-### 🔵 Custom Tag Importer
+### 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 
 A plugin that allows you to scan track information from custom tags in your music files. That includes rating tags because a rating tag is basically just a custom tag for ratings.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 <br><br><br>
 
 
-### 🔵 PotPourri
+### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
 
 A plugin with a collection of small features (e.g. change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
 
-### 🔵 Use Comments Tag Info Light
+### 🔵 [Use Comments Tag Info Light](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
 
 A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
