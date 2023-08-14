@@ -86,31 +86,31 @@ A plugin that uses (key)words in your music files' comments tags to add extra in
 ## Wiki pages
 <br>
 
-### Display track ratings on *Now Playing* screen (piCorePlayer, Touch, Radio, SqueezePlay)
+### [Display track ratings on *Now Playing* screen](https://github.com/AF-1/sobras/tree/main/lms-nowplaying_screen_with_ratings) (piCorePlayer, SqueezePlay, Touch, Radio)
 
 A mod of the **Now Playing** screen that enables the display of track ratings on **piCorePlayer**, **SB Touch**, **SB Radio** and **SqueezePlay**.
 <br><br>
-➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-nowplaying_screen_with_ratings#display-ratings-on-now-playing-screen-touch-picoreplayer-radio)
+➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-nowplaying_screen_with_ratings)
 <br><br><br>
 
-### Use title formats with the rating star ★ on piCorePlayer, Touch, Radio or SqueezePlay
+### [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font) (piCorePlayer, SqueezePlay, Touch, Radio)
 
-If you want to use the black star character ★ to display track ratings (LMS title formats) on players with a *jivelite* UI (piCorePlayer, Touch, Radio or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character.<br>
+If you want to use the black star character ★ to display track ratings (LMS **title formats**) on players with a *jivelite* UI (piCorePlayer, Touch, Radio or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character.<br>
 Here's how to do it.
 <br><br>
-➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font#change-font-on-picoreplayer-touch-radio-jivelite)
+➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
 <br><br><br>
 
-### LMS on macOS - LMS auto-start, mac sleep...
+### [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS auto-start, mac sleep...
 
 How I start LMS on my headless Mac mini - and how I make sure it goes to sleep when I don't use LMS.
 <br><br>
-➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos#lms-on-my-mac)
+➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos)
 <br><br><br>
 
-### Sync ratings from macOS Music app to LMS with file tags
+### [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
 
 How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)
 <br><br>
-➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags#sync-ratings-from-macos-music-app-to-lms-with-file-tags)
+➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
 <br><br><br>
