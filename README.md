@@ -67,6 +67,12 @@ A plugin that allows you to scan track information from custom tags in your musi
 <br><br><br>
 
 
+### 🔵 [Transparent Dark Skin](https://github.com/AF-1/lms-transparentdarkskin#transparent-dark-skin)
+A version of the **Dark Default Skin** plugin with **increased UI transparency** that lets you **set a custom background** image.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-transparentdarkskin#transparent-dark-skin)
+<br><br><br>
+
+
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
 
 A plugin with a collection of small features (e.g. change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players).<br><br>
