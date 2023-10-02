@@ -66,12 +66,12 @@ A plugin that allows you to scan track information from custom tags in your musi
 ➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 <br><br><br>
 
-
+<!--
 ### 🔵 [Transparent Dark Skin](https://github.com/AF-1/lms-transparentdarkskin#transparent-dark-skin)
 A version of the **Dark Default Skin** plugin with **increased UI transparency** that lets you **set a custom background** image.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-transparentdarkskin#transparent-dark-skin)
 <br><br><br>
-
+-->
 
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
 
