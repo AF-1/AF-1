@@ -1,8 +1,8 @@
-Plugins and Wikis for Logitech Media Server
+Plugins, applets and wikis for Logitech Media Server
 ====
 <br>
 
-## LMS Plugins
+## Plugins
 <br>
 
 ### 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
@@ -66,13 +66,6 @@ A plugin that allows you to scan track information from custom tags in your musi
 ➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 <br><br><br>
 
-<!--
-### 🔵 [Transparent Dark Skin](https://github.com/AF-1/lms-transparentdarkskin#transparent-dark-skin)
-A version of the **Dark Default Skin** plugin with **increased UI transparency** that lets you **set a custom background** image.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-transparentdarkskin#transparent-dark-skin)
-<br><br><br>
--->
-
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
 
 A plugin with a collection of small features (e.g. change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players).<br><br>
@@ -86,20 +79,30 @@ A plugin that uses (key)words in your music files' comments tags to add extra in
 ➔ [**More information**](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
 <br><br><br>
 
+<br><hr><br>
+
+
+## Applets
+<br>
+
+### 🔵 [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) (piCorePlayer, SqueezePlay, SB Touch)
+A skin for jivelite with a slightly different look and extra information on the *Now Playing* screen (ratings, status icons, audio meta data, lyrics).<br><br>
+➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin)
+<br><br><br>
+
+### 🔵 NowPlaying screen with ratings (SB Radio)
+Display track ratings on the *Now Playing* screen.
+<br><br><br>
 
 <br><hr><br>
+
 
 ## Wiki pages
 <br>
 
-### [Display track ratings on *Now Playing* screen](https://github.com/AF-1/sobras/tree/main/lms-nowplaying_screen_with_ratings) (piCorePlayer, SqueezePlay, Touch, Radio)
-
-A mod of the **Now Playing** screen that enables the display of track ratings on **piCorePlayer**, **SB Touch**, **SB Radio** and **SqueezePlay**.
-<br><br>
-➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-nowplaying_screen_with_ratings)
-<br><br><br>
-
 ### [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font) (piCorePlayer, SqueezePlay, Touch, Radio)
+
+⚠️ The [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) applet (piCorePlayer, SqueezePlay, SB Touch) already includes the required font files.
 
 If you want to use the black star character ★ to display track ratings (LMS **title formats**) on players with a *jivelite* UI (piCorePlayer, Touch, Radio or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character.<br>
 Here's how to do it.
