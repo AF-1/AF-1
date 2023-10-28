@@ -100,11 +100,11 @@ Display track ratings on the *Now Playing* screen.
 ## Wiki pages
 <br>
 
-### [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font) (piCorePlayer, SqueezePlay, Touch, Radio)
+### [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
 
 ⚠️ The [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) applet (piCorePlayer, SqueezePlay, SB Touch) already includes the required font files.
 
-If you want to use the black star character ★ to display track ratings (LMS **title formats**) on players with a *jivelite* UI (piCorePlayer, Touch, Radio or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character.<br>
+If you want to use the black star character ★ to display track ratings (LMS **title formats**) on players with a *jivelite* UI (Radio, piCorePlayer, Touch or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character (unless you use the <i>Dark Flat Skin</i>)<br>
 Here's how to do it.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
