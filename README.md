@@ -100,7 +100,7 @@ Display track ratings on the *Now Playing* screen.
 ## Wiki pages
 <br>
 
-### [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
+### 🔵 [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
 
 ⚠️ The [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) applet (piCorePlayer, SqueezePlay, SB Touch) already includes the required font files.
 
@@ -110,16 +110,34 @@ Here's how to do it.
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
 <br><br><br>
 
-### [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS auto-start, mac sleep...
+
+### 🔵 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS auto-start, mac sleep...
 
 How I start LMS on my headless Mac mini - and how I make sure it goes to sleep when I don't use LMS.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos)
 <br><br><br>
 
-### [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
+
+### 🔵 [What to include in a plugin/applet problem report](https://github.com/AF-1/sobras/wiki/Report-a-problem)
+
+A problem report template AKA what to include in a problem report.
+<br><br>
+➔ [**Wiki page**](https://github.com/AF-1/sobras/wiki/Report-a-problem)
+<br><br><br>
+
+
+### 🔵 [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
 
 How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
+<br><br><br>
+
+
+### 🔵 [Manual installation of LMS plugins](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
+
+How to manually install LMS plugins (e.g. to test the latest GitHub version of a plugin).
+<br><br>
+➔ [**Wiki page**](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
 <br><br><br>
