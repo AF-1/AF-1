@@ -90,7 +90,7 @@ A skin for jivelite with a slightly different look and extra information on the 
 ➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin)
 <br><br><br>
 
-### 🔵 [NowPlaying screen with ratings](https://github.com/AF-1/#) (SB Radio)
+### 🔵 [NowPlaying screen with ratings](https://github.com/AF-1/#applets) (SB Radio)
 Display track ratings on the *Now Playing* screen.
 <br><br><br>
 
