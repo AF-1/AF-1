@@ -37,7 +37,7 @@ A plugin that provides alternative play counts and skip counts to reflect your t
 
 
 ### 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
-A plugin that allows you to start and stop tracks at a specified playback/song time.<br><br>
+A plugin that allows you to start and stop tracks at a specific playback/song time or to skip a specific part of the song (e.g. silence).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
 <br><br><br>
 
@@ -66,17 +66,11 @@ A plugin that allows you to scan track information from custom tags in your musi
 ➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 <br><br><br>
 
+
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
 
-A plugin with a collection of small features (e.g. change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players).<br><br>
+A collection of small features: change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players, use (key)words in your music files' comment tags to add extra information to the song details page and to define/display custom title formats, adjust selected album release types using album title keywords.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
-<br><br><br>
-
-
-### 🔵 [Use Comments Tag Info Light](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
-
-A plugin that uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-usecommentstaginfolight#use-comments-tag-info-light)
 <br><br><br>
 
 <br><hr><br>
