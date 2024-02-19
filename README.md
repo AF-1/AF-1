@@ -72,6 +72,13 @@ A collection of small features: change the track order of *static* or *client* p
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
+
+### 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats#context-stats)
+
+A plugin that lets you display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-contextstats#context-stats)
+<br><br><br>
+
 <br><hr><br>
 
 
