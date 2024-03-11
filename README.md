@@ -13,7 +13,7 @@ A plugin that takes care of rating your tracks. Set track ratings (also with plu
 
 ### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 A plugin that lets you take a look at your library statistics with charts. Take a look at the screenshots.<br><br>
-➔ [**More information **](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
+➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
 
 
