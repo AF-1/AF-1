@@ -91,7 +91,7 @@ A skin for jivelite with a slightly different look and extra information on the 
 <br><br><br>
 
 ### 🔵 [NowPlaying screen with ratings](https://github.com/AF-1/jivelite-nowplayingscreenwithratings#nowplaying-ratings) (SB Radio)
-A skin for jivelite on the *SB Radio* that displays track **ratings** on the **Now Playing** screen.
+A skin for jivelite that displays track **ratings** on the **Now Playing** screen.<br><br>
 ➔ [**More information**](https://github.com/AF-1/jivelite-nowplayingscreenwithratings#nowplaying-ratings)
 <br><br><br>
 
