@@ -12,13 +12,13 @@ A plugin that takes care of rating your tracks. Set track ratings (also with plu
 
 
 ### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
-A plugin that lets you take a look at your library statistics with charts. Take a look at the screenshots.<br><br>
+Take a look at your library statistics with charts. Check out the screenshots.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
 
 
 ### 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
-A plugin that lets you use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists.<br><br>
+Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 <br><br><br>
 
@@ -30,19 +30,19 @@ A plugin that helps you create **custom** smart playlists (dynamic playlists) fo
 
 
 ### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
-A plugin that provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups.<br><br>
+A plugin that provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Create (scheduled) backups, restore from backups. Use the data with <i>Dynamic Playlists</i>, <i>Dynamic Playlist Creator</i>, <i>Virtual Library Creator</i>, <i>Context Stats</i> or <i>Custom Skip</i> to create/play smart playlists (dynamic playlists), virtual libraries or to skip specific tracks.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
 
 ### 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
-A plugin that allows you to start and stop tracks at a specific playback/song time or to skip a specific part of the song (e.g. silence). Just add custom start, stop or skip times to a track's comment tag and, with the help of this plugin, the song will start or end, when you want it to, or skip an unwanted part. No more annoying song intros or minutes of silence.<br><br>
+Start and stop tracks at a specific playback/song time or to skip a specific part of the song (e.g. silence). Just add custom start, stop or skip times to a track's comment tag and, with the help of this plugin, the song will start or end, when you want it to, or skip an unwanted part. No more annoying song intros or minutes of silence.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
 <br><br><br>
 
 
 ### 🔵 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
-A plugin that allows you to create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.<br><br>
+Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
 <br><br><br>
 
@@ -54,7 +54,7 @@ A dark-themed version of the *LMS Default skin*.<br><br>
 
 
 ### 🔵 [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)
-A plugin that lets you set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically.<br><br>
+Set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customskip#custom-skip)
 <br><br><br>
 
@@ -75,7 +75,7 @@ A collection of small features: change the track order of *static* or *client* p
 
 ### 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats#context-stats)
 
-A plugin that lets you display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.<br><br>
+Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-contextstats#context-stats)
 <br><br><br>
 
