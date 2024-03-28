@@ -1,4 +1,4 @@
-Plugins, applets and wikis for Logitech Media Server
+Plugins, applets and wikis for [LMS](https://github.com/michaelherger/slimserver)
 ====
 <br>
 
