@@ -60,21 +60,19 @@ Set player-specific rules for when the current track or upcoming tracks in your 
 
 
 ### 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
-
-A plugin that allows you to scan track information from custom tags in your music files. That includes rating tags because a rating tag is basically just a custom tag for ratings.<br><br>
+Scans track information from custom tags in your music files (incl. rating tags).
+<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 <br><br><br>
 
 
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
-
 A collection of small features: change the track order of *static* or *client* playlists, set a time for auto power-off of all players, set the power-on start volume for players, use (key)words in your music files' comment tags to add extra information to the song details page and to define/display custom title formats, adjust selected album release types using album title keywords.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
 
 ### 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats#context-stats)
-
 Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-contextstats#context-stats)
 <br><br><br>
