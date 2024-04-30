@@ -30,7 +30,7 @@ Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic
 
 
 ### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
-Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with <i>Dynamic Playlists</i>, <i>Dynamic Playlist Creator</i>, <i>Virtual Library Creator</i>, <i>Context Stats</i> or <i>Custom Skip</i> to create/play smart playlists (dynamic playlists), virtual libraries or to skip specific tracks. For a more comprehensive feature list follow the link.<br><br>
+Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), virtual libraries or to skip specific tracks. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
