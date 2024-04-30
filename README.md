@@ -73,7 +73,7 @@ Display lists of tracks, albums or artists sorted by statistics from the context
 
 
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
-A collection of small features: change playlist track order of playlists, schedule auto power-off of all players, set a player's power-on start volume... For a more comprehensive feature list follow the link.<br><br>
+A collection of small features: change playlist track order of playlists, scheduled auto power-off of all players, set a player's power-on start volume... For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
