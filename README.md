@@ -1,4 +1,4 @@
-Plugins, applets and wikis for [Lyrion Music Server](https://github.com/michaelherger/slimserver)
+Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Community/slimserver/)
 ====
 <br>
 
