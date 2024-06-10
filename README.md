@@ -47,9 +47,9 @@ Create custom virtual libraries with optional LMS browse menus using a template 
 <br><br><br>
 
 
-### 🔵 [Dark Default Skin](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
-A dark-themed version of the *LMS Default skin*.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
+### 🔵 [Dark Logic Skin](https://github.com/AF-1/lms-darklogicskin#dark-logic-skin)
+A dark-themed version of the *Logic Teal* skin.<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-darklogicskin#dark-logic-skin)
 <br><br><br>
 
 
@@ -75,6 +75,12 @@ Display lists of tracks, albums or artists sorted by statistics from the context
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
 A collection of small features: change playlist track order of playlists, scheduled auto power-off of all players, set a player's power-on start volume... For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
+<br><br><br>
+
+
+### ⚪️ [Dark Default Skin](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
+A dark-themed version of the *LMS Default skin* (LMS versions < 9).<br><br>
+➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
 <br><br><br>
 
 <br><hr><br>
