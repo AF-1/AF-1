@@ -17,6 +17,12 @@ Take a look at your library statistics with charts. Check out the screenshots.<b
 <br><br><br>
 
 
+### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
+Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), virtual libraries or to skip specific tracks. For a more comprehensive feature list follow the link.<br><br>
+➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
+<br><br><br>
+
+
 ### 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
@@ -26,12 +32,6 @@ Use smart playlists (dynamic playlists) to play continuous music mixes based on 
 ### 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin using templates.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
-<br><br><br>
-
-
-### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
-Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), virtual libraries or to skip specific tracks. For a more comprehensive feature list follow the link.<br><br>
-➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
 
@@ -68,7 +68,7 @@ Scans track information from custom tags in your music files (incl. rating tags)
 
 ### 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats#context-stats)
 Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-contextstats#context-stats)
+➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-contextstats#context-stats)
 <br><br><br>
 
 
