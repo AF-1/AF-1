@@ -89,7 +89,7 @@ A dark-themed version of the *LMS Default skin* (LMS versions < 9).<br><br>
 ## Applets
 <br>
 
-### 🔵 [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) (piCorePlayer, SqueezePlay, SB Touch)
+### 🔵 [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) (piCorePlayer, SB Touch, SqueezePlay)
 A skin for jivelite with a slightly different look and extra information on the *Now Playing* screen (ratings, status icons, audio meta data, lyrics).<br><br>
 ➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin)
 <br><br><br>
