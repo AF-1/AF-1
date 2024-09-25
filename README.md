@@ -6,7 +6,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br>
 
 ### 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
-Set, import, export, log, backup and restore track ratings. Create virtual libraries for (top) rated tracks with browse menus. For a more comprehensive feature list follow the link.<br><br>
+Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight#ratings-light)
 <br><br><br>
 
@@ -18,7 +18,7 @@ Take a look at your library statistics with charts. Check out the screenshots.<b
 
 
 ### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
-Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), virtual libraries or to skip specific tracks. For a more comprehensive feature list follow the link.<br><br>
+Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
@@ -30,13 +30,13 @@ Use smart playlists (dynamic playlists) to play continuous music mixes based on 
 
 
 ### 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
-Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin using templates.<br><br>
+Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 <br><br><br>
 
 
 ### 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
-Start and stop tracks at a specific playback time or skip a specific part of the song (e.g. silence) by simply adding custom start, stop or skip times to a track's comments tag.<br><br>
+Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
 <br><br><br>
 
@@ -54,7 +54,7 @@ A dark-themed version of the *Logic Teal* skin.<br><br>
 
 
 ### 🔵 [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)
-Set player-specific rules for when the current track or upcoming tracks in your playlist should be skipped and removed from the playlist automatically.<br><br>
+Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-customskip#custom-skip)
 <br><br><br>
 
