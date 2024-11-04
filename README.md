@@ -96,7 +96,7 @@ A skin for jivelite with a different look that displays extra information on the
 
 ### 🔵 [Now Playing Info Plus](https://github.com/AF-1/jivelite-nowplayinginfoplus?#nowplaying-info-plus) (SB Radio)
 Display additional information on the *Now Playing* screen (rating, year, audio metadata, status icons).<br><br>
-➔ [**More information**](https://github.com/AF-1/jivelite-nowplayinginfoplus?#nowplaying-info-plus)
+➔ [**More information**](https://github.com/AF-1/jivelite-nowplayinginfoplus?#now-playing-info-plus)
 <br><br><br>
 
 <br><hr><br>
