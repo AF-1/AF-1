@@ -94,9 +94,9 @@ A skin for jivelite with a different look that displays extra information on the
 ➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin)
 <br><br><br>
 
-### 🔵 [NowPlaying screen with ratings](https://github.com/AF-1/jivelite-nowplayingscreenwithratings#nowplaying-ratings) (SB Radio)
-A skin for jivelite that displays track **ratings** on the **Now Playing** screen.<br><br>
-➔ [**More information**](https://github.com/AF-1/jivelite-nowplayingscreenwithratings#nowplaying-ratings)
+### 🔵 [Now Playing Info Plus](https://github.com/AF-1/jivelite-nowplayinginfoplus?#nowplaying-info-plus) (SB Radio)
+Display additional information on the *Now Playing* screen (rating, year, audio metadata, status icons) of your SB Radio.<br><br>
+➔ [**More information**](https://github.com/AF-1/jivelite-nowplayinginfoplus?#nowplaying-info-plus)
 <br><br><br>
 
 <br><hr><br>
