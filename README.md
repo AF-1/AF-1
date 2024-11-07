@@ -42,7 +42,7 @@ Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in th
 
 
 ### 🔵 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
-Create custom virtual libraries with optional LMS browse menus using a template in a browser or by adding files with customized SQLite statements.<br><br>
+A quick and easy way to create and manage your own virtual libraries/library views.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
 <br><br><br>
 
