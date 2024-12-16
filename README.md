@@ -77,12 +77,6 @@ A collection of small features: change the track order of playlists, schedule au
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
-
-### ⚪️ [Dark Default Skin](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
-A dark-themed version of the *LMS Default skin* (LMS versions < 9).<br><br>
-➔ [**More information**](https://github.com/AF-1/lms-darkdefaultskin#dark-default-skin)
-<br><br><br>
-
 <br><hr><br>
 
 
