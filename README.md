@@ -84,7 +84,7 @@ A collection of small features: change the track order of playlists, schedule au
 <br>
 
 ### 🔵 [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) (piCorePlayer, SB Touch, SqueezePlay)
-A skin for (the *original*) jivelite with a different look that displays extra information on the *Now Playing* screen (rating, audio meta data, lyrics, status icons, year). You can also rate a track directly from *Now Playing* screen.<br><br>
+A skin for (the original) jivelite with a different look that displays extra information on the *Now Playing* screen (rating, audio meta data, lyrics, status icons, year). You can also rate a track directly from *Now Playing* screen.<br><br>
 ➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin)
 <br><br><br>
 
