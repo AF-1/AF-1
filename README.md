@@ -6,7 +6,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br>
 
 ### 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
-Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
+Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight#ratings-light)
 <br><br><br>
 
@@ -18,7 +18,7 @@ Take a look at your library statistics with charts. Check out the screenshots.<b
 
 
 ### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
-Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks. For a more comprehensive feature list follow the link.<br><br>
+Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (with [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)), to create virtual libraries (with [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)) or to skip tracks (with [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)). For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
