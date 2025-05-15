@@ -67,13 +67,13 @@ Scans track information from custom tags in your music files (incl. rating tags)
 
 
 ### 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats#context-stats)
-Display lists of tracks, albums or artists sorted by statistics from the context menus of artists, albums, genres, years and playlists.<br><br>
+Display lists of tracks, albums or artists sorted by statistics from the context menus of a selected artist, album, genre, year, decade or playlist. Or lists of tracks, albums or artists sorted by statistics for your **entire** music library.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-contextstats#context-stats)
 <br><br><br>
 
 
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
-A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume... For a more comprehensive feature list follow the link.<br><br>
+A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks... For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
@@ -111,19 +111,11 @@ Here's how to do it.
 <br><br><br>
 
 
-### 🔵 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS auto-start, mac sleep...
+### 🔵 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS and Mac sleep
 
-How I start LMS on my headless Mac mini - and how I make sure it goes to sleep when I don't use LMS.
+How I make sure my Mac mini goes to sleep when I don't use LMS.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos)
-<br><br><br>
-
-
-### 🔵 [What to include in a plugin/applet problem report](https://github.com/AF-1/sobras/wiki/Report-a-problem)
-
-A problem report template AKA what to include in a problem report.
-<br><br>
-➔ [**Wiki page**](https://github.com/AF-1/sobras/wiki/Report-a-problem)
 <br><br><br>
 
 
