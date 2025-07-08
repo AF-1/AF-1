@@ -120,7 +120,7 @@ If you want to use the black star character ★ to display track ratings (LMS **
 Here's how to do it.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
-<br><br><br>
+<br><br><br><br>
 
 
 ## 🔵 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS and Mac sleep
@@ -128,7 +128,7 @@ Here's how to do it.
 How I make sure my Mac mini goes to sleep when I don't use LMS.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos)
-<br><br><br>
+<br><br><br><br>
 
 
 ## 🔵 [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
@@ -136,7 +136,7 @@ How I make sure my Mac mini goes to sleep when I don't use LMS.
 How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
-<br><br><br>
+<br><br><br><br>
 
 
 ## 🔵 [Manual installation of LMS plugins](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
@@ -144,4 +144,4 @@ How to sync your macOS Music (app) library ratings to LMS using file tags (BPM o
 How to manually install LMS plugins (e.g. to test the latest GitHub version of a plugin).
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
-<br><br><br>
+<br><br><br><br>
