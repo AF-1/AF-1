@@ -14,7 +14,7 @@ Set, import, export, log, backup and restore track ratings. Create virtual libra
 
 ### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 Take a look at your library statistics with charts. Check out the screenshots.<br><br>
-![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release)<br>
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release)<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
 
