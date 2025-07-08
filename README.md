@@ -6,12 +6,14 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br>
 
 ### 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release)
 Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight#ratings-light)
 <br><br><br>
 
 
 ### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release)
 Take a look at your library statistics with charts. Check out the screenshots.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
@@ -73,7 +75,7 @@ Display lists of tracks, albums or artists sorted by statistics from the context
 
 
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
-A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks... For a more comprehensive feature list follow the link.<br><br>
+A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks... For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
 
