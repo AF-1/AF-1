@@ -25,7 +25,7 @@ Provides alternative play counts and skip counts that aim to reflect your true l
 <br><br><br>
 
 
-### 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
+## 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylists?label=Latest%20Release)
 
 Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. For a more comprehensive feature list follow the link.<br><br>
