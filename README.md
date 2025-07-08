@@ -120,6 +120,7 @@ If you want to use the black star character ★ to display track ratings (LMS **
 Here's how to do it.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
+
 <br><br><br><br>
 
 
@@ -128,6 +129,7 @@ Here's how to do it.
 How I make sure my Mac mini goes to sleep when I don't use LMS.
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos)
+
 <br><br><br><br>
 
 
@@ -136,6 +138,7 @@ How I make sure my Mac mini goes to sleep when I don't use LMS.
 How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
+
 <br><br><br><br>
 
 
