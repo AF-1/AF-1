@@ -123,7 +123,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ![SB Touch - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'fab4'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20SB%20Touch)
 ![SqueezePlay - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'squeezeplay'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20SqueezePlay)<br>
 
-> A skin for (the original) jivelite with a different look that displays extra information on the *Now Playing* screen (rating, audio meta data, lyrics, status icons, year). You can also rate a track directly from *Now Playing* screen.<br>
+> A skin for (the original) jivelite with a different look that displays extra information on the *Now Playing* screen (rating, audio meta data, lyrics, status icons, genre, year). You can also rate a track directly from *Now Playing* screen.<br>
 
 ➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin?tab=readme-ov-file#dark-flat-skin)
 <br><br><br><br>
@@ -147,8 +147,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 > The [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) applet (piCorePlayer, SqueezePlay, SB Touch) already includes the required font files.
 
 > If you want to use the black star character ★ to display track ratings (LMS **title formats**) on players with a *jivelite* UI (Radio, piCorePlayer, Touch or SqueezePlay), you have to **replace the default font** on these devices with a font that *includes* the black star character (unless you already use the <i>Dark Flat Skin</i>).<br>
-Here's how to do it.
-<br>
+Here's how to do it.<br>
 
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
 <br><br><br><br>
@@ -156,8 +155,7 @@ Here's how to do it.
 
 ## 🔵 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS and Mac sleep
 
-> How I make sure my Mac mini goes to sleep when I don't use LMS.
-<br>
+> How I make sure my Mac mini goes to sleep when I don't use LMS.<br>
 
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-on-macos)
 <br><br><br><br>
@@ -165,8 +163,7 @@ Here's how to do it.
 
 ## 🔵 [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
 
-> How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)
-<br>
+> How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)<br>
 
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
 <br><br><br><br>
@@ -174,8 +171,7 @@ Here's how to do it.
 
 ## 🔵 [Manual installation of LMS plugins](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
 
-> How to manually install LMS plugins (e.g. to test the latest GitHub version of a plugin).
-<br>
+> How to manually install LMS plugins (e.g. to test the latest GitHub version of a plugin).<br>
 
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
 <br><br><br><br>
