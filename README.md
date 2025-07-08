@@ -68,7 +68,7 @@ Set rules for when the current track or upcoming tracks in your player's playlis
 <br><br><br>
 
 
-### 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
+## 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customtagimporter?label=Latest%20Release)<br>
 Scans track information from custom tags in your music files (incl. rating tags).
 <br><br>
