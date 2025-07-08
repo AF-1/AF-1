@@ -2,38 +2,38 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ====
 <br>
 
-## Plugins
+# Plugins
 <br>
 
-### 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
+## 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
+![Latest release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release)<br>
 Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
-  ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release)<br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight#ratings-light)
 <br><br><br>
 
 
-### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
-Take a look at your library statistics with charts. Check out the screenshots.<br><br>
+## 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release)<br>
+Take a look at your library statistics with charts. Check out the screenshots.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
 
 
-### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count) ![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-alternativeplaycount?label=Latest%20Release)
+## 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-alternativeplaycount?label=Latest%20Release)<br>
 Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (with [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)), to create virtual libraries (with [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)) or to skip tracks (with [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)). For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
 
 ## 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
-![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylists?label=Latest%20Release)
-
+![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylists?label=Latest%20Release)<br>
 Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 <br><br><br>
 
 
-### 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
+## 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylistcreator?label=Latest%20Release)<br>
 Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
