@@ -7,7 +7,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 
 ## 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight?tab=readme-ov-file#ratings-light)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'RatingsLight'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'RatingsLight'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight?tab=readme-ov-file#ratings-light)
 <br><br><br><br>
@@ -15,7 +15,7 @@ Set, import, export, log, backup and restore track ratings. Create virtual libra
 
 ## 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics?tab=readme-ov-file#visual-statistics)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VisualStatistics'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VisualStatistics'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Take a look at your library statistics with charts. Check out the screenshots.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics?tab=readme-ov-file#visual-statistics)
 <br><br><br><br>
@@ -23,7 +23,7 @@ Take a look at your library statistics with charts. Check out the screenshots.<b
 
 ## 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount?tab=readme-ov-file#alternative-play-count)
 ![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-alternativeplaycount?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'AlternativePlayCount'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'AlternativePlayCount'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (with [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)), to create virtual libraries (with [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)) or to skip tracks (with [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)). For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount?tab=readme-ov-file#alternative-play-count)
 <br><br><br><br>
@@ -31,7 +31,7 @@ Provides alternative play counts and skip counts that aim to reflect your true l
 
 ## 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists?tab=readme-ov-file#dynamic-playlists)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylists?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylists4'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylists4'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylists?tab=readme-ov-file#dynamic-playlists)
 <br><br><br><br>
@@ -39,7 +39,7 @@ Use smart playlists (dynamic playlists) to play continuous music mixes based on 
 
 ## 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator?tab=readme-ov-file#dynamic-playlist-creator)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylistcreator?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylistCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylistCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylistcreator?tab=readme-ov-file#dynamic-playlist-creator)
 <br><br><br><br>
@@ -47,7 +47,7 @@ Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic
 
 ## 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes?tab=readme-ov-file#custom-start-stop-times)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customstartstoptimes?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomStartStopTimes'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomStartStopTimes'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes?tab=readme-ov-file#custom-start-stop-times)
 <br><br><br><br>
@@ -55,7 +55,7 @@ Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in th
 
 ## 🔵 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator?tab=readme-ov-file#virtual-library-creator)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-virtuallibrarycreator?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VirtualLibraryCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VirtualLibraryCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 A quick and easy way to create and manage your own virtual libraries/library views.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-virtuallibrarycreator?tab=readme-ov-file#virtual-library-creator)
 <br><br><br>
@@ -63,7 +63,7 @@ A quick and easy way to create and manage your own virtual libraries/library vie
 
 ## 🔵 [Dark Logic Skin](https://github.com/AF-1/lms-darklogicskin?tab=readme-ov-file#dark-logic-skin)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-darklogicskin?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DarkLogicSkin'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DarkLogicSkin'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 A dark-themed version of the *Logic Teal* skin.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-darklogicskin?tab=readme-ov-file#dark-logic-skin)
 <br><br><br><br>
@@ -71,7 +71,7 @@ A dark-themed version of the *Logic Teal* skin.<br><br>
 
 ## 🔵 [Custom Skip](https://github.com/AF-1/lms-customskip?tab=readme-ov-file#custom-skip)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customskip?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomSkip3'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomSkip3'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-customskip?tab=readme-ov-file#custom-skip)
 <br><br><br><br>
@@ -79,7 +79,7 @@ Set rules for when the current track or upcoming tracks in your player's playlis
 
 ## 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter?tab=readme-ov-file#custom-tag-importer)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customtagimporter?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomTagImporter'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomTagImporter'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Scans track information from custom tags in your music files (incl. rating tags).
 <br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-customtagimporter?tab=readme-ov-file#custom-tag-importer)
@@ -88,7 +88,7 @@ Scans track information from custom tags in your music files (incl. rating tags)
 
 ## 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats?tab=readme-ov-file#context-stats)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-contextstats?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'ContextStats'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'ContextStats'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 Display lists of tracks, albums or artists sorted by statistics from the context menus of a selected artist, album, genre, year, decade or playlist. Or lists of tracks, albums or artists sorted by statistics for your **entire** music library.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-contextstats?tab=readme-ov-file#context-stats)
 <br><br><br><br>
@@ -96,7 +96,7 @@ Display lists of tracks, albums or artists sorted by statistics from the context
 
 ## 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri?tab=readme-ov-file#potpourri)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-potpourri?label=Latest%20Release) &nbsp;
-![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'PotPourri'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version&color=darkgreen)<br>
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'PotPourri'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks... For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri?tab=readme-ov-file#potpourri)
 <br><br><br>
