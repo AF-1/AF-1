@@ -7,8 +7,6 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 
 ## 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight#ratings-light)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release)<br>
-
-![GitHub Release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release&link=https%3A%2F%2Fgithub.com%2FAF-1%2Flms-ratingslight)<br>
 Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight#ratings-light)
 <br><br><br>
