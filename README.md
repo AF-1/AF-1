@@ -136,7 +136,6 @@ How I make sure my Mac mini goes to sleep when I don't use LMS.
 How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)
 <br><br>
 ➔ [**Wiki page**](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
-
 <br><br><br><br>
 
 
