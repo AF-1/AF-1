@@ -8,7 +8,8 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ## 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight?tab=readme-ov-file#ratings-light)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'RatingsLight'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
-> Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br><br>
+> Set, import, export, log, backup and restore track ratings. Create virtual libraries/library views for rated tracks with optional LMS browse menus. For a more comprehensive feature list follow the link.<br>
+
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-ratingslight?tab=readme-ov-file#ratings-light)
 <br><br><br><br>
 
