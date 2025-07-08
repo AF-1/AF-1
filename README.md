@@ -13,55 +13,63 @@ Set, import, export, log, backup and restore track ratings. Create virtual libra
 
 
 ### 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
-![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release)<br><br>
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release)<br>
 Take a look at your library statistics with charts. Check out the screenshots.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-visualstatistics#visual-statistics)
 <br><br><br>
 
 
 ### 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-alternativeplaycount?label=Latest%20Release)<br>
 Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (with [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)), to create virtual libraries (with [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)) or to skip tracks (with [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)). For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-alternativeplaycount#alternative-play-count)
 <br><br><br>
 
 
 ### 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylists?label=Latest%20Release)<br>
 Use smart playlists (dynamic playlists) to play continuous music mixes based on your selection criteria. Comes with a number of ready-to-use dynamic playlists. For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylists#dynamic-playlists)
 <br><br><br>
 
 
 ### 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylistcreator?label=Latest%20Release)<br>
 Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-dynamicplaylistcreator#dynamic-playlist-creator)
 <br><br><br>
 
 
 ### 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-customstartstoptimes?label=Latest%20Release)<br>
 Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-customstartstoptimes#custom-start-stop-times)
 <br><br><br>
 
 
 ### 🔵 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-virtuallibrarycreator?label=Latest%20Release)<br>
 A quick and easy way to create and manage your own virtual libraries/library views.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-virtuallibrarycreator#virtual-library-creator)
 <br><br><br>
 
 
 ### 🔵 [Dark Logic Skin](https://github.com/AF-1/lms-darklogicskin#dark-logic-skin)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-darklogicskin?label=Latest%20Release)<br>
 A dark-themed version of the *Logic Teal* skin.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-darklogicskin#dark-logic-skin)
 <br><br><br>
 
 
 ### 🔵 [Custom Skip](https://github.com/AF-1/lms-customskip#custom-skip)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-customskip?label=Latest%20Release)<br>
 Set rules for when the current track or upcoming tracks in your player's playlist should be skipped and removed from the playlist automatically.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-customskip#custom-skip)
 <br><br><br>
 
 
 ### 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-customtagimporter?label=Latest%20Release)<br>
 Scans track information from custom tags in your music files (incl. rating tags).
 <br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-customtagimporter#custom-tag-importer)
@@ -69,12 +77,14 @@ Scans track information from custom tags in your music files (incl. rating tags)
 
 
 ### 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats#context-stats)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-contextstats?label=Latest%20Release)<br>
 Display lists of tracks, albums or artists sorted by statistics from the context menus of a selected artist, album, genre, year, decade or playlist. Or lists of tracks, albums or artists sorted by statistics for your **entire** music library.<br><br>
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-contextstats#context-stats)
 <br><br><br>
 
 
 ### 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri#potpourri)
+![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-potpourri?label=Latest%20Release)<br>
 A collection of small features: change the track order of playlists, schedule auto power-off of all players, set a player's power-on start volume, limit or lock a player's volume, export static playlists to playlist files with custom file paths and file extensions, purge dead tracks... For a more comprehensive feature list follow the link.<br><br>
 ➔ [**More information**](https://github.com/AF-1/lms-potpourri#potpourri)
 <br><br><br>
