@@ -9,7 +9,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-alternativeplaycount?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'AlternativePlayCount'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 
-![GitHub stars](https://img.shields.io/github/stars/AF-1/lms-alternativeplaycount?style=social)<br>
+![⭐ Stars](https://img.shields.io/github/stars/F-1/lms-alternativeplaycount?style=flat&label=%E2%AD%90%20Stars&logo=github)<br>
 
 > Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (with [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists)), to create virtual libraries (with [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator)) or to skip tracks (with [Custom Skip](https://github.com/AF-1/lms-customskip)). For a more comprehensive feature list follow the link.<br>
 
