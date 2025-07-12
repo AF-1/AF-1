@@ -135,7 +135,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ![piCorePlayer - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'jivelite'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20piCorePlayer)
 ![SB Touch - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'fab4'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20SB%20Touch)
 ![SqueezePlay - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'squeezeplay'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20SqueezePlay) &nbsp;
-![repo stars](https://img.shields.io/github/stars/AF-1/lms-darkflatskin?style=flat&label=%E2%AD%90&color=555555)<br>
+![repo stars](https://img.shields.io/github/stars/AF-1/jivelite-darkflatskin?style=flat&label=%E2%AD%90&color=555555)<br>
 
 > A skin for (the original) jivelite with a different look that displays extra information on the *Now Playing* screen (rating, audio meta data, lyrics, status icons, genre, year). You can also rate a track directly from *Now Playing* screen.<br>
 
@@ -143,7 +143,8 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 ## 🔵 [Now Playing Info Plus](https://github.com/AF-1/jivelite-nowplayinginfoplus)
-![Latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'baby'%20and%20%40name%3D'NPInfoPlusInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release)<br>
+![Latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'baby'%20and%20%40name%3D'NPInfoPlusInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release) &nbsp;
+![repo stars](https://img.shields.io/github/stars/AF-1/jivelite-nowplayinginfoplus?style=flat&label=%E2%AD%90&color=555555)<br>
 > Display additional information on the *Now Playing* screen (rating, year, audio metadata, status icons).<br>
 
 ➔ [**More information**](https://github.com/AF-1/jivelite-nowplayinginfoplus)
