@@ -5,7 +5,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 # Plugins
 <br>
 
-## 🔵 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount)
+## 🟢 [Alternative Play Count](https://github.com/AF-1/lms-alternativeplaycount)
 ![Latest release version](https://img.shields.io/github/v/release/AF-1/lms-alternativeplaycount?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'AlternativePlayCount'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-alternativeplaycount?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -16,7 +16,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Context Stats](https://github.com/AF-1/lms-contextstats)
+## 🟢 [Context Stats](https://github.com/AF-1/lms-contextstats)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-contextstats?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'ContextStats'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-contextstats?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -26,7 +26,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Custom Skip](https://github.com/AF-1/lms-customskip)
+## 🟢 [Custom Skip](https://github.com/AF-1/lms-customskip)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customskip?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomSkip3'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-customskip?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -36,7 +36,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes)
+## 🟢 [Custom Start Stop Times](https://github.com/AF-1/lms-customstartstoptimes)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customstartstoptimes?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomStartStopTimes'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 > Skip unwanted parts of a song (e.g. annoying intros, silence at the end or in the middle).<br>
@@ -45,7 +45,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter)
+## ⚪️ [Custom Tag Importer](https://github.com/AF-1/lms-customtagimporter)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-customtagimporter?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'CustomTagImporter'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-customtagimporter?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -55,7 +55,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Dark Logic Skin](https://github.com/AF-1/lms-darklogicskin)
+## 🟢 [Dark Logic Skin](https://github.com/AF-1/lms-darklogicskin)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-darklogicskin?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DarkLogicSkin'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 > A dark-themed version of the *Logic Teal* skin.<br>
@@ -64,7 +64,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator)
+## 🟢 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylistcreator?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylistCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![Min. DPL Version](https://img.shields.io/badge/Min._Dynamic_Playlists_Version_Required-v4.0-red) &nbsp;
@@ -76,7 +76,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists)
+## 🟢 [Dynamic Playlists](https://github.com/AF-1/lms-dynamicplaylists)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-dynamicplaylists?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylists4'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-dynamicplaylists?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -86,7 +86,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Ratings Light](https://github.com/AF-1/lms-ratingslight)
+## 🟢 [Ratings Light](https://github.com/AF-1/lms-ratingslight)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-ratingslight?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'RatingsLight'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-ratingslight?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -96,7 +96,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [PotPourri](https://github.com/AF-1/lms-potpourri)
+## 🟢 [PotPourri](https://github.com/AF-1/lms-potpourri)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-potpourri?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'PotPourri'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-potpourri?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -106,7 +106,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator)
+## 🟢 [Virtual Library Creator](https://github.com/AF-1/lms-virtuallibrarycreator)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-virtuallibrarycreator?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VirtualLibraryCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-virtuallibrarycreator?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -116,7 +116,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
-## 🔵 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics)
+## 🟢 [Visual Statistics](https://github.com/AF-1/lms-visualstatistics)
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-visualstatistics?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VisualStatistics'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-visualstatistics?style=flat&label=%E2%AD%90&color=555555)<br>
@@ -131,7 +131,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 # Applets
 <br>
 
-## 🔵 [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin)
+## 🟢 [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin)
 ![piCorePlayer - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'jivelite'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20piCorePlayer)
 ![SB Touch - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'fab4'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20SB%20Touch)
 ![SqueezePlay - latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'squeezeplay'%20and%20%40name%3D'DarkFlatSkinInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release%20for%20SqueezePlay) &nbsp;
@@ -142,7 +142,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ➔ [**More information**](https://github.com/AF-1/jivelite-darkflatskin)
 <br><br><br><br>
 
-## 🔵 [Now Playing Info Plus](https://github.com/AF-1/jivelite-nowplayinginfoplus)
+## 🟢 [Now Playing Info Plus](https://github.com/AF-1/jivelite-nowplayinginfoplus)
 ![Latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'applet'%20and%20%40target%3D'baby'%20and%20%40name%3D'NPInfoPlusInstaller'%5D%2F%40version&prefix=v&label=Latest%20Release) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/jivelite-nowplayinginfoplus?style=flat&label=%E2%AD%90&color=555555)<br>
 > Display additional information on the *Now Playing* screen (rating, year, audio metadata, status icons).<br>
@@ -156,7 +156,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 # Wiki pages
 <br>
 
-## 🔵 [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
+## 💡 [Use title formats with the rating star ★](https://github.com/AF-1/sobras/tree/main/lms-jivelite-change-font)
 
 > [!NOTE]
 > The [Dark Flat Skin](https://github.com/AF-1/jivelite-darkflatskin#dark-flat-skin) applet (piCorePlayer, SqueezePlay, SB Touch) already includes the required font files.
@@ -168,7 +168,7 @@ Here's how to do it.<br>
 <br><br><br><br>
 
 
-## 🔵 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS and Mac sleep
+## 💡 [LMS on macOS](https://github.com/AF-1/sobras/tree/main/lms-on-macos) - LMS and Mac sleep
 
 > How I make sure my Mac mini goes to sleep when I don't use LMS.<br>
 
@@ -176,7 +176,7 @@ Here's how to do it.<br>
 <br><br><br><br>
 
 
-## 🔵 [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
+## 💡 [Sync ratings from macOS Music app to LMS with file tags](https://github.com/AF-1/sobras/tree/main/lms-ratings-sync-file-tags)
 
 > How to sync your macOS Music (app) library ratings to LMS using file tags (BPM or comments)<br>
 
@@ -184,7 +184,7 @@ Here's how to do it.<br>
 <br><br><br><br>
 
 
-## 🔵 [Manual installation of LMS plugins](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
+## 💡 [Manual installation of LMS plugins](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins)
 
 > How to manually install LMS plugins (e.g. to test the latest GitHub version of a plugin).<br>
 
