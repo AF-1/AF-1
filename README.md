@@ -111,7 +111,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ![Latest release](https://img.shields.io/github/v/release/AF-1/lms-virtuallibrarycreator?label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'VirtualLibraryCreator'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
 ![repo stars](https://img.shields.io/github/stars/AF-1/lms-virtuallibrarycreator?style=flat&label=%E2%AD%90&color=555555)<br>
-> A quick and easy way to create and manage your own virtual libraries/library views.<br>
+> A quick and easy way to create and manage your own virtual (sub-)libraries / library views.<br>
 
 ➔ [**More information (incl. FAQ)**](https://github.com/AF-1/lms-virtuallibrarycreator)
 <br><br><br><br>
