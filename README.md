@@ -80,6 +80,15 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 <br><br><br><br>
 
 
+## 🟢 [Migration Assistant](https://github.com/AF-1/lms-migrationassistant)
+![Latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flmsghonly%2Fpublic.xml&cacheSeconds=1800&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'MigrationAssistant'%5D%2F%40version&prefix=v&label=Latest%20Release) &nbsp;
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flmsghonly%2Fpublic.xml&cacheSeconds=172800&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'MigrationAssistant'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
+> Helps you back up and restore server, plugin and player preferences, playlists and per-track statistics when migrating to a new installation.<br>
+
+➔ [**More information**](https://github.com/AF-1/lms-migrationassistant)
+<br><br><br><br>
+
+
 ## 🟢 [PotPourri](https://github.com/AF-1/lms-potpourri)
 ![Latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&cacheSeconds=1800&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'PotPourri'%5D%2F%40version&prefix=v&label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&cacheSeconds=172800&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'PotPourri'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
