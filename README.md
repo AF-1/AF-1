@@ -63,7 +63,7 @@ Plugins, applets and wikis for [Lyrion Music Server](https://github.com/LMS-Comm
 ## 🟢 [Dynamic Playlist Creator](https://github.com/AF-1/lms-dynamicplaylistcreator)
 ![Latest release](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&cacheSeconds=1800&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylistCreator'%5D%2F%40version&label=Latest%20Release) &nbsp;
 ![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&cacheSeconds=172800&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DynamicPlaylistCreator'%5D%2F%40minTarget&label=Min.%20LMS%20Version%20Required&color=darkgreen) &nbsp;
-![Min. DPL Version](https://img.shields.io/badge/Min._Dynamic_Playlists_Version_Required-v4.0-red)<br>
+![Min. DPL Version](https://img.shields.io/badge/Min._Dynamic_Playlists_Version_Required-4.0-red)<br>
 <br>
 > Helps you create **custom** smart playlists (dynamic playlists) for the *Dynamic Playlists* plugin.<br>
 
